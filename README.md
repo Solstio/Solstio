@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently learning HTML to make a website that will (in theory)
+be incredibly cool.
+
+I'm also trying to slowly learn C++ and may be making some video
+games in my spare time.
+
 <!--
 **Solstio/Solstio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
